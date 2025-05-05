@@ -23,7 +23,7 @@ This implementation supports:
 
 ## 📸 Demo
 
-<img src="screenshot.png" width="500" alt="Akari Puzzle Game Screenshot" />
+![Akari Puzzle Game Screenshot](Screenshot%202025-05-05%20at%2016.55.56.png)
 
 ## 🚀 Features
 
